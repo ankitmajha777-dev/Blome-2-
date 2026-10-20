@@ -1,0 +1,6 @@
+{
+  "name": "Beane & Blossom | Premium Specialty Café & Artisan Roastery",
+  "description": "Where Every Cup Finds Its Bloom. Specialty coffee, single-origin roasts, botanical teas, artisanal pastries, table reservations, and seamless online ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
